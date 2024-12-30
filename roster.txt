@@ -1,0 +1,126 @@
+0;Tysheem;Johnson;DB;Sr.;Philadelphia;PA
+1;Jordan;Burch;DE;Sr.;Columbia;SC
+1;Traeshon;Holden;WR;Sr.;Kissimmee;FL
+2;Jeffrey;Bassa;ILB;Sr.;Salt Lake City;UT
+2;Gary;Bryant Jr.;WR;Jr.;Riverside;CA
+3;Terrance;Ferguson;TE;Sr.;Littleton;CO
+3;Brandon;Johnson;DB;Sr.;Newton;NC
+4;Jestin;Jacobs;ILB;Sr.;Englewood;OH
+5;Kobe;Savage;DB;Sr.;Paris;TX
+5;Dante;Moore;QB;So.;Detroit;MI
+6;Jahlil;Florence;DB;Jr.;Southeast San Diego;CA
+6;Noah;Whittington;RB;R-Jr.;Fort Valley;GA
+7;Jabbar;Muhammad;DB;Sr.;DeSoto;TX
+7;Evan;Stewart;WR;Jr.;Memphis;TN
+8;Dillon;Gabriel;QB;Sr.;Mililani;HI
+8;Dontae;Manning;DB;Sr.;Kansas City;MO
+9;Nikko;Reed;DB;Sr.;Oakland;CA
+10;Luke;Moga;QB;Fr.;Phoenix;AZ
+10;Matayo;Uiagalelei;OLB;So.;Bellflower;CA
+11;Kam;Alexander;DB;Sr.;Manvel;TX
+11;Dakoda;Fields;DB;Fr.;Gardena;CA
+11;Jeremiah;McClellan;WR;Fr.;St. Louis;MO
+12;Brock;Thomas;QB;R-Fr.;Eugene;OR
+12;Peyton;Woodyard;DB;Fr.;Fullerton;CA
+13;Jurrion;Dickey;WR;R-Fr.;East Palo Alto;CA
+13;Sione;Laulea;DB;Jr.;Mountain View;CA
+14;Justius;Lowe;WR;So.;Portland;OR
+14;Khamari;Terrell;DB;Jr.;Killeen;TX
+15;Solomon;Davis;DB;R-Fr.;Fontana;CA
+15;Tez;Johnson;WR;Sr.;Pinson;AL
+16;Austin;Novosad;QB;R-Fr.;Dripping SpringsTX;TX
+16;Rodrick;Pleasant;DB;So.;Gardena;CA
+17;Kyler;Kasper;WR;So.;Gilbert;AZ
+17;Blake;Purchase;OLB;So.;Green Valley;CO
+18;Kenyon;Sadiq;TE;So.;Idaho Falls;ID
+19;Ryder;Hayes;QB;Fr.;Grandview;TX
+19;Tyler;Turner;DB;R-Fr.;San Antonio;TX
+20;Jordan;James;RB;Jr.;Nashville;TN
+20;Dylan;Williams;ILB;Fr.;Carson;CA
+21;Aaron;Flowers;DB;Fr.;Forney;TX
+21;Da'Jaun;Riggs;RB;Fr.;Washington;DC
+22;Jay;Harris;RB;Jr.;St. Louis;MO
+22;Connor;Soelle;ILB;Sr.;Scottsdale;AZ
+23;Ellis;Bynum;RB;So.;Portland;OR
+23;Brayden;Platt;ILB;Fr.;Yelm;WA
+24;Kingston;Lopa;DB;Fr.;Sacramento;CA
+24;Jalen;Saint Paul;WR;Fr.;Carlsbad;CA
+25;Brison;Cobbins;RB;Jr.;Kansas City;KS
+25;Ify;Obidegwu;DB;Fr.;Baltimore;MD
+26;Devon;Jackson;ILB;So.;Omaha;NE
+27;Daylen;Austin;DB;R-Fr.;Long Beach;CA
+27;Jayden;Limar;RB;So.;Lake Stevens;WA
+28;Preston;Alford;WR;So.;Dripping SpringsTX;TX
+28;Bryce;Boettcher;ILB;Sr.;Eugene;OR
+29;Kilohana;Haasenritter;RB;Jr.;Hilo;HI
+29;Ashton;Porter;OLB;R-Fr.;Cypress;TX
+30;Xavier;Barksdale;DB;R-Fr.;San Diego;CA
+31;Zach;Grisham;DB;So.;Portland;OR
+32;Emar'rion;Winston;OLB;So.;Portland;OR
+33;Kamar;Mothudi;ILB;Fr.;Los Angeles;CA
+34;Cruz;Rushing;DB;So.;Tucson;AZ
+35;Jacob;Pruitt;DB;Fr.;Rohnert Park;CA
+36;Timon;Davis;DB;Jr.;Portland;OR
+36;Atticus;Sappington;K;Jr.;Portland;OR
+38;Will;Straton;ILB;R-Fr.;Honolulu;HI
+39;Dane;Sipos;DB;Jr.;Lebanon;OR
+40;Kade;Caton;TE;Fr.;Manvel;TX
+42;Aydin;Breland;DL;Fr.;Santa Ana;CA
+43;Luke;Basso;LS;Jr.;Lake Oswego;OR
+44;Zach;Grace;TE;R-Fr.;Kearney;MO
+44;Teitum;Tuioti;OLB;So.;Laie;HI
+45;Luke;Dunne;P;R-Fr.;Benalla;Victoria, AUS
+46;Chip;Allers;ILB;R-Fr.;Bend;OR
+47;Elijah;Rushing;OLB;Fr.;Tucson;AZ
+50;Tionne;Gray;DL;Fr.;St. Louis;MO
+50;Nishad;Strother;OL;Sr.;Havelock;NC
+52;A'Mauri;Washington;DL;So.;Detroit;MI
+53;Devin;Brooks;OL;Fr.;Clackamas;OR
+54;Jerry;Mixon;ILB;So.;San Francisco;CA
+55;Derrick;Harmon;DL;Jr.;Detroit;MI
+55;Marcus;Harper II;OL;Sr.;Chicago Heights;IL
+56;Trent;Ferguson;OL;Fr.;Salem;OR
+56;Jaeden;Moore;OLB;R-Fr.;Hanford;CA
+59;Fox;Crader;OL;Fr.;Vancouver;WA
+60;Kanen;Rossi;OL;Jr.;Portland;OR
+61;JaJuan;Dickey;DL;R-So.;East Palo Alto;CA
+62;Holden;Whipple;OL;Jr.;Salem;OR
+64;Ty;Delgado;OL;So.;Portland;OR
+65;Ajani;Cornelius;OL;Sr.;Harlem;NY
+66;Bryce;Boulton;OL;R-Fr.;Palm Desert;CA
+67;Beau;R;OL;R-Fr.;Portland;OR
+68;Auston;Mims;OL;R-Fr.;Akron;OH
+69;Bailey;Jaramillo;OL;Jr.;Portland;OR
+70;Charlie;Pickard;OL;Jr.;Portland;OR
+71;George;Silva;OL;Sr.;Torrance;CA
+72;Iapani;Laloulu;OL;So.;Honolulu;HI
+73;Kawika;Rogers;OL;So.;Kapa'a;HI
+74;Dave;Iuli;OL;Jr.;Puyallup;WA
+75;JacQawn;McRoy;OL;Fr.;Pinson;AL
+76;Josh;Conerly Jr.;OL;Jr.;Seattle;WA
+77;Matthew;Bedford;OL;Sr.;Memphis;TN
+77;Jericho;Johnson;DL;Fr.;Suisun City;CA
+78;Gernorris;Wilson;OL;R-Fr.;Lakeland;FL
+79;Lipe;Moala;OL;R-Fr.;Riverside;CA
+80;Dillon;Gresham;WR;Fr.;Hemet;CA
+80;Jaxson;Jones;OLB;Fr.;Yuma;AZ
+81;Ryan;Pellum;WR;Fr.;Long Beach;CA
+83;Roger;Saleapaga;TE;Fr.;Orem;UT
+84;Jack;Ressler;WR;Fr.;Irvine;CA
+85;Travis;Brashear;TE;R-Fr.;Inglewood;CA
+86;Darrian;Anderson;WR;So.;Waipahu;HI
+87;A.J.;Pugliano;TE;Fr.;Medford;OR
+88;Patrick;Herbert;TE;Sr.;Eugene;OR
+88;Xadavien;Sims;DL;Fr.;Durant;OK
+89;Brady;Bidwell;WR;Fr.;Eugene;OR
+90;Jamaree;Caldwell;DL;Sr.;Newberry;SC
+92;Ross;James;P;Jr.;Brandon;MS
+93;My'Keil;Gardner;DL;R-Fr.;El Mirage;AZ
+93;Grant;Meadors;K;R-Fr.;Bakersfield;CA
+94;Tyler;Kinsman;P;Fr.;Nampa;ID
+95;Kenyon;Ware-Hudson;DT;Sr.;Duarte;CA
+96;Nick;Duzansky;LS;R-Fr.;Wheaton;IL
+97;Gage;Hurych;K;Fr.;West Linn;OR
+97;Josh;Simmons;DL;Sr.;Asheville;NC
+98;Andrew;Boyle;K;Sr.;Camas;WA
+99;Terrance;Green;DL;R-Fr.;Cypress;TX
